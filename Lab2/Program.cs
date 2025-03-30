@@ -7,6 +7,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        //Part 1: Variable Declarations
+
         int myNumber = 46;
         double doubleVariable = 22e3D;
         float  floatVariable = 44e4F;
@@ -20,6 +22,8 @@ class Program
         Console.WriteLine(charVariable);
         Console.WriteLine(codingIsInteresting);
         Console.WriteLine(stringVariable);
+
+        //Part 2: Type Casting
 
         double myDouble = 9.78;
         int myInt = (int) myDouble;
@@ -37,14 +41,18 @@ class Program
         Console.WriteLine("string:" + intToString);
         Console.WriteLine("string:" + boolToString);
 
-        //Console.WriteLine("Enter username: ");
-        //string userName = Console.ReadLine();
-        //Console.WriteLine("Username is: " + userName);
+        //Part 3: User Input and Type Conversion
 
-        //Console.WriteLine("Enter your age: ");
-        //int age = Convert.ToInt32(Console.ReadLine());
-        //Console.WriteLine("Your age is: " + age);
-        //Console.WriteLine("Hello, " + userName + "." + " Congratulation you turned " + age + "!");
+        Console.WriteLine("Enter username: ");
+        string userName = Console.ReadLine();
+        Console.WriteLine("Username is: " + userName);
+
+        Console.WriteLine("Enter your age: ");
+        int age = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Your age is: " + age);
+        Console.WriteLine("Hello, " + userName + "." + " Congratulation you turned " + age + "!");
+
+        //Part 4: Arithmetic Operators
 
         int num1 = 10;
         int num2 = 20;
@@ -57,11 +65,15 @@ class Program
         Console.WriteLine("Division " + (addition / 2));
         Console.WriteLine("Modulus " + (addition % 2));
 
+        //Part 5: Floating Point Precision
+
         float myNum = 1.123456789F;
         double myNumb = 1.123456789D;
 
         Console.WriteLine(myNum);
         Console.WriteLine(myNumb);
+
+        //Part 6: Increment and Decrement
 
         int x = 10;
         x++;
