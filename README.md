@@ -7,3 +7,7 @@ Lab Projects for IT-1050 - Programming Logic
 //This is screenshot of part3 from Lab2 
 
 ![Screenshot 2025-03-30 020430](https://github.com/user-attachments/assets/241d9715-3ff6-4446-99db-e841b2379d31)
+
+//This is my screenshot from Lab3
+
+![Screenshot 2025-04-05 155657](https://github.com/user-attachments/assets/e39575f4-23fc-4fe0-bb0b-1a878e01ea9a)
