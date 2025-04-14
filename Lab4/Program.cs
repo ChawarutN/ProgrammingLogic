@@ -44,7 +44,7 @@ class Program
             number = Convert.ToInt32(Console.ReadLine());
             if (number <= 100)
             {
-                Console.WriteLine("Invalid Number. 55Please enter a valid number: ");
+                Console.WriteLine("Invalid Number. Please enter a valid number: ");
             }
         }
 
