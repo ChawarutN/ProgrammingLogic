@@ -11,3 +11,6 @@ Lab Projects for IT-1050 - Programming Logic
 //This is my screenshot from Lab3
 
 ![Screenshot 2025-04-05 163946](https://github.com/user-attachments/assets/94a9f8db-4ae3-46ed-b5cd-46464284020f)
+
+//Screen shot of Do/While user input from lab4
+![Screenshot 2025-04-13 213957](https://github.com/user-attachments/assets/0ee54167-3a64-475d-925e-0c08b0a077c3)
