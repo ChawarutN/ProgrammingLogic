@@ -19,3 +19,7 @@ Lab Projects for IT-1050 - Programming Logic
 //Screenshot of Lab5 practicing the use of arrays.
 
 ![Screenshot 2025-04-20 001341](https://github.com/user-attachments/assets/be01d771-92e2-4e2a-8719-56c111eebd30)
+
+//Lab 6: OOP
+
+![Screenshot 2025-04-26 025734](https://github.com/user-attachments/assets/1994a88f-1d9e-4f9c-b83e-67403acb0611)
