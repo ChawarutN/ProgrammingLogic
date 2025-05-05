@@ -23,3 +23,11 @@ Lab Projects for IT-1050 - Programming Logic
 //Lab 6: OOP
 
 ![Screenshot 2025-04-26 025734](https://github.com/user-attachments/assets/1994a88f-1d9e-4f9c-b83e-67403acb0611)
+
+//Lab7's screenshots from Visual Studio and Github source code.
+
+![Screenshot 2025-05-05 114622](https://github.com/user-attachments/assets/245a3d61-c9d8-4c4e-9647-1fb4fc431d14)
+
+![Screenshot 2025-05-05 114635](https://github.com/user-attachments/assets/092bdc21-972a-461c-9c7c-b048b94bf38e)
+
+![Screenshot 2025-05-05 114721](https://github.com/user-attachments/assets/5ce8410a-6f67-4059-8d8b-9514fd30f666)
